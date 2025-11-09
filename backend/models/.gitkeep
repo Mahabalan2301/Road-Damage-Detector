@@ -1,0 +1,5 @@
+# Place your model files here:
+# - best.pt (YOLO detection model)
+# - swin_model.pth (Swin Transformer - optional)
+# - tinyvit_model.pth (TinyViT - optional)
+
